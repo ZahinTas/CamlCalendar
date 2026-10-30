@@ -1,0 +1,5 @@
+(library
+ (name calendar)
+ (public_name CamlCalendar)
+ (libraries unix yojson)
+ (instrumentation (backend bisect_ppx)))

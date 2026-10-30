@@ -1,0 +1,41 @@
+---
+# Members of your group.
+group:  
+  - name: Audrey Dequito
+    netid: amd466
+  - name: Daisy Lin
+    netid: xl972
+  - name: Sophia Zhen
+    netid: xz876
+  - name: Yala Huang Feng
+    netid: yh2293
+  - name: Zahin Tasnin
+    netid: zt276
+
+# Your PM.
+pm:
+  name: Michelle Zhao
+  netid: mz625
+# Set to false if you don't want your gallery entry to be public.
+publish: false 
+# Pithy title
+title: "The Caml Calendar (TCC)"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/zt276/CamlCalendar"
+# Replace the URL with your own demo video.
+demo-video-url: "https://youtu.be/c4ugFBzUY20"
+# Write a short, attention-grabbing description of your project.
+desc: >
+  CamlCalendar - Interactive Terminal Calendar
+  CamlCalendar is a terminal-based calendar application built in OCaml for 
+  managing schedules directly from the command line. The calendar displays 
+  monthly, weekly, and yearly views with color-coded days: today in red, 
+  holidays in blue, and past days in gray. Users can navigate between months, 
+  select any day to view, edit, and manage items through an interactive menu 
+  system. The application supports user authentication with signup/login and 
+  persistent JSON data storage. Key features include: Multiple view modes: 
+  monthly grid, weekly schedule, and yearly overview. Date navigation: jump 
+  to specific dates, navigate between months/weeks/years. Full file persistence 
+  with automatic directory creation and user-specific data storage. And all 
+  features are accessible through an intuitive terminal interface with keyboard 
+  shortcuts and interactive prompts for seamless schedule management.
